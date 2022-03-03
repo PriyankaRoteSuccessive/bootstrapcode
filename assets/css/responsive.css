@@ -1,10 +1,5 @@
-@media screen and (min-width:1200px){
+@media screen and (min-width:1589px){
     .container{
-        max-width: 1170px;
-    }   
-}
-@media screen and (min-width:1600px){
-    .container{
-        max-width: 1550px;
+        max-width: 1440px;
     }   
 }
