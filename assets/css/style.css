@@ -565,11 +565,11 @@ h6.col4 {
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
-  margin-right: 70px;
-  margin-bottom: 27px;
+  /* margin-right: 70px;
+  margin-bottom: 27px; */
 }
 h6.col3 {
-  margin: 0px 192px 0 164px;
+  /* margin: 0px 192px 0 164px; */
 }
 .coloumn_head {
   display: flex;
